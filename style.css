@@ -3,14 +3,14 @@ body
     brackground: #cccccc
    }
 
+   #banner{
+    width: 100%;
+   }
+
    p{
     text-align: center;
    }
 
    em strong{
     color:#ff0000
-   }
-
-   #banner{
-    width: 100%;
    }
