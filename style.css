@@ -14,3 +14,7 @@ body
    em strong{
     color:#ff0000
    }
+
+   .itens {
+      font-style: italic;
+   }
